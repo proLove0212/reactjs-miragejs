@@ -6,7 +6,7 @@ import {AddUser} from "./components/user/add_user/AddUser";
 
 export default class App extends Component {
     private navbarTitle: string = "Users Infomation";
-
+ 
     render(): React.ReactElement {
         return (
             <div className="App">
